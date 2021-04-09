@@ -1,0 +1,44 @@
+
+
+h2{
+    margin: 20px;
+}
+div.col {
+    background-color:grey;
+    margin: 100px;
+    color: white;
+    border-radius: 10px;
+}
+
+    
+
+#account {
+    width: 20vh;
+    
+    border-radius: 100%;
+}
+img {
+    border-radius: 100%;
+}
+#tr-money {
+    width: 20vh;
+   
+    border-radius: 100%;
+
+}
+#transaction {
+    width: 20vh;
+   
+    border-radius: 100%;
+
+}
+
+.table {
+    font-size: 25px;
+}
+.btn:hover {
+    transform: scale(1.2);
+}
+
+
+
