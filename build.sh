@@ -1,4 +1,4 @@
-DEST="./public_html"
+DEST="./"
 html=".html"
 
 mkdir -p "$DEST/"
